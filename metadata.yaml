@@ -1,5 +1,8 @@
 _repo: Le-Pays-de-l-or_10384
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Conscience, Hendrik
@@ -14,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Hendrik_Conscience
     - http://nl.wikipedia.org/wiki/Hendrik_Conscience
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10384#Le-Pays-de-l-or
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
